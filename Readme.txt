@@ -12,6 +12,6 @@ firebaseConfig = {
     measurementId: "G-22TYE0JJGQ"
   };
 
-Link Hosting :
+Link Hosting : https://uas-ionic-adinda.vercel.app/login
 
 Link Github : https://github.com/adindaramadhaniwibowo/uas-ionic-adinda
